@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drink Adviser</string>
+    <string name="find_drink">Find Drink</string>
+    <string name="type_drink">No drinks selected</string>
+    <string-array name="kind_of_drink">
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+        <item>Горячий шоколад</item>
+        <item>Коктейли</item>
+    </string-array>
+</resources>
